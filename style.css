@@ -1,0 +1,21 @@
+body {
+    font-family: Tahoma, sans-serif;
+    direction: rtl;
+    text-align: center;
+    background: #e0f7fa;
+    padding: 40px;
+}
+form {
+    margin: 20px auto;
+    max-width: 400px;
+}
+label, select, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+#result {
+    margin-top: 30px;
+    font-size: 18px;
+}
